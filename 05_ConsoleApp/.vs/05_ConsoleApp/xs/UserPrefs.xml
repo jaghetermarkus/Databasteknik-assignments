@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{D0AF208E-98AE-444E-943F-C748E45079C5}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Console__dbApp.Tests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="05_ConsoleApp" expanded="True">
+            <Node name="Console_dbApp" expanded="True" />
+            <Node name="Console_dbApp.Tests" expanded="True">
+              <Node name="Tests" expanded="True">
+                <Node name="RepositoryTests" expanded="True">
+                  <Node name="CustomerRepositoryTests.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="05_ConsoleApp" selected="True">
+            <Node name="Console_dbApp.Tests" expanded="True">
+              <Node name="Console_dbApp.Tests.Tests.RepositoryTests" expanded="True">
+                <Node name="CustomerRepositoryTests" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Console__dbApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
